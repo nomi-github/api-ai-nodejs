@@ -1,1 +1,1 @@
-web: node api_ai.js
+web: node index.js
